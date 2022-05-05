@@ -9,7 +9,7 @@ public class Order {
 	private int OrderId;
 	private int orderNumber;
 	private Date transactionDate;
-	private ArrayList totalOrderItem;
+	private ArrayList totalOrderItem; //kat sini aku tak tahu nak declare mcm mana
 	private double subTotal;
 	private double ServiceTax;
 	private double rounding;
