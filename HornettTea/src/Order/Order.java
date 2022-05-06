@@ -1,9 +1,9 @@
-package Tea;
+package Order;
 
 import java.sql.Date;
 import java.util.ArrayList;
 
-
+//model 
 public class Order {
 
 	private int OrderId;

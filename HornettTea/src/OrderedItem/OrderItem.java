@@ -1,6 +1,8 @@
-package Tea;
+package OrderedItem;
 
 import java.sql.Date;
+
+import itemProduct.itemProduct;
 
 public class OrderItem {
 	private int orderItemId;
