@@ -1,9 +1,10 @@
 package OrderedItem;
 
 import java.sql.Date;
-
 import itemProduct.itemProduct;
 
+
+//model
 public class OrderItem {
 	private int orderItemId;
 	private itemProduct itemProduct;
