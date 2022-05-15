@@ -13,7 +13,6 @@ public class database {
 	{
 		Class.forName("com.mysql.jdbc.Driver");
 
-
 		Connection conn = 
 				DriverManager.getConnection("jdbc:mysql://localhost/ht_db2","root","");
 		return conn;
