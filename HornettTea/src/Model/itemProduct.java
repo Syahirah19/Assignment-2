@@ -1,4 +1,4 @@
-package itemProduct;
+package Model;
 
 
 //model
