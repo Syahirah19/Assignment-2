@@ -2,7 +2,6 @@ package Model;
 
 import java.sql.Date;
 
-
 //model
 public class OrderedItem {
 	private int orderItemId;

@@ -1,6 +1,5 @@
 package Model;
 
-
 //model
 public class itemProduct {
 
