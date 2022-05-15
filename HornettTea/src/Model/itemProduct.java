@@ -1,6 +1,7 @@
 package Model;
 
 //model
+
 public class itemProduct {
 
 	private int itemProductId; 
