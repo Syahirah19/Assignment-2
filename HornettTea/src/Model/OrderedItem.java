@@ -1,11 +1,10 @@
-package OrderedItem;
+package Model;
 
 import java.sql.Date;
-import itemProduct.itemProduct;
 
 
 //model
-public class OrderItem {
+public class OrderedItem {
 	private int orderItemId;
 	private itemProduct itemProduct;
 	private int quantity;
